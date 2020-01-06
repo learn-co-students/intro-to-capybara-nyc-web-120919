@@ -1,1 +1,3 @@
-# Write your code here!
+require './config/environment'
+require_relative './app'
+run Application
